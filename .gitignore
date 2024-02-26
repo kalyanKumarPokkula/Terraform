@@ -1,0 +1,6 @@
+Create_Ec2_Instance/.terraform
+Create_Ec2_Instance/terraform.tfstate
+Variable_Input_Output/.terraform
+Variable_Input_Output/terraform.tfstate
+Creating_Github_Repo_WIth_Terraform/provider.tf
+Creating_Github_Repo_WIth_Terraform/.terraform
